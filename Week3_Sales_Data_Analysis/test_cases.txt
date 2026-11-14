@@ -1,0 +1,9 @@
+# Test Cases – Sales Data Analysis
+
+1. CSV loading: Run the program and confirm that the dataset loads without an error.
+2. Dataset size: Confirm the original CSV has 100 data rows and 5 columns.
+3. Missing values: Confirm the cleaning summary reports 0 missing values after cleaning.
+4. Duplicate removal: Confirm at least one duplicate row is removed.
+5. Revenue: Confirm Total Revenue is printed as a numeric value.
+6. Best-selling product: Confirm a product name and quantity are printed.
+7. Report generation: Confirm `analysis_report.md` is created or updated after the run.
